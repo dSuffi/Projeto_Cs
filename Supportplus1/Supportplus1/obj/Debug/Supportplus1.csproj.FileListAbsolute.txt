@@ -1,0 +1,42 @@
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\bin\Debug\Supportplus1.exe.config
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\bin\Debug\Supportplus1.exe
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\bin\Debug\Supportplus1.pdb
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Form1.resources
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Properties.Resources.resources
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.secondform.resources
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.csproj.GenerateResource.Cache
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.exe
+c:\users\danilo suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.pdb
+C:\Users\Danilo Suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.FeedbackForm.resources
+C:\Users\Danilo Suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Ramal.resources
+C:\Users\Danilo Suffi\documents\visual studio 2017\Projects\Supportplus1\Supportplus1\obj\Debug\Supportplus1.TicketForm.resources
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.FeedbackForm.resources
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Form1.resources
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Ramal.resources
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.secondform.resources
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.TicketForm.resources
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.exe
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.pdb
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\bin\Debug\Supportplus1.exe.config
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\bin\Debug\Supportplus1.exe
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\bin\Debug\Supportplus1.pdb
+C:\Users\Administrador\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Loader.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\bin\Debug\Supportplus1.exe.config
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\bin\Debug\Supportplus1.exe
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\bin\Debug\Supportplus1.pdb
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.FeedbackForm.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Form1.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Loader.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Properties.Resources.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.Ramal.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.secondform.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.TicketForm.resources
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.csproj.GenerateResource.Cache
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.exe
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.pdb
+C:\Users\Danilo Suffi\Desktop\Supportplus1\Supportplus1\obj\Debug\Supportplus1.AdmForm.resources
